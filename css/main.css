@@ -1,0 +1,110 @@
+/* RESET*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    }
+    
+    /* estilos generales*/
+    
+    body {
+    
+        color: #2b2b2b ;
+        background-color: white ;
+    
+    }
+    
+    
+    /* estilos de header*/
+    
+    header h1{
+        color: red;
+     }
+
+    header h2{
+        color: black;
+     }
+    
+    header{
+
+        
+    
+    
+    
+        background-color: whitesmoke;
+        color: #2b2b2b;
+        margin: 10px 20px ;
+        padding: 30px 40px;
+        
+        
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    
+       
+    
+    }
+    
+    header nav{
+    
+        margin-right: 30px;
+    }
+    
+    header nav ul{
+    
+        list-style: none;
+        display: flex;
+        gap: 10px;
+        
+    
+    }
+    header img {
+    
+        width: 10%;
+        margin: 20px;
+        
+    }
+    
+    main{
+    
+        display: flex;
+        justify-content: center;
+        margin: 50px;
+    }
+
+  section div img{
+
+    width: 70%;
+        margin: 30px;
+        justify-content: center;
+        display: flex;
+  }
+
+  section{
+
+    background-color: white;
+    color: black;
+    padding: 30px;
+    margin: 0px 5px;
+
+    display: flex;
+    justify-content: center;
+
+    
+  }
+
+  section div{
+
+    text-align: center;
+  }
+
+  section div button{
+
+    justify-content: center;
+  }
+    
+  
